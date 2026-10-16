@@ -12,7 +12,7 @@
     "dependencies": {
         "@mdi/font": "^7.2.96",
         "antlr4": "^4.13.0",
-        "axios": "^1.4.0",
+        "axios": "^1.20.0",
         "core-js": "^3.31.1",
         "lodash": "^4.17.21",
         "marked": "^5.1.1",
